@@ -18,10 +18,25 @@
   </a>
 </div>
 
+
+---
+
+### 🛠️ My Languages and Tools: 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      
+</div>
+
 ---
 
 ### 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=its-kumar-yash)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=its-kumar-yash&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 its-kumar-yash/its-kumar-yash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
