@@ -1,3 +1,9 @@
+<img src="https://github.com/its-kumar-yash/its-kumar-yash/assets/97521394/3a36689e-592e-4e30-b484-b9021958e0c8" alt="C++" width="200" height="200">
+<img src="https://github.com/its-kumar-yash/its-kumar-yash/assets/97521394/66bb0efd-d7ca-4370-8d71-cca3b49fdd62" alt="C++" width="220" height="220">
+
+
+---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=600&height=60&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Yash!;A+Competitive+Programming+and+Web+Dev+enthusiast%F0%9F%98%84)](https://git.io/typing-svg)
 
 ---
