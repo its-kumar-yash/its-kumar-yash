@@ -1,5 +1,4 @@
-<img src="https://github.com/its-kumar-yash/its-kumar-yash/assets/97521394/3a36689e-592e-4e30-b484-b9021958e0c8" alt="C++" width="200" height="200">
-<img src="https://github.com/its-kumar-yash/its-kumar-yash/assets/97521394/66bb0efd-d7ca-4370-8d71-cca3b49fdd62" alt="C++" width="220" height="220">
+[![An image of @itskumaryash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itskumaryash)](https://holopin.io/@itskumaryash)
 
 
 ---
