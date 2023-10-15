@@ -1,5 +1,3 @@
-[![An image of @itskumaryash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itskumaryash)](https://holopin.io/@itskumaryash)
-
 
 ---
 
@@ -47,6 +45,10 @@
 
 ### 🔥 My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=its-kumar-yash&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+[![An image of @itskumaryash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itskumaryash)](https://holopin.io/@itskumaryash)
+
 
 <!---
 its-kumar-yash/its-kumar-yash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
