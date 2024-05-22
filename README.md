@@ -44,7 +44,7 @@
 ---
 
 ### 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=its-kumar-yash&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=its-kumar-yash&theme=dark&background=000000)](https://git.io/streak-stats)<img src="https://github.com/its-kumar-yash/its-kumar-yash/assets/97521394/d66088fc-1ed4-4b73-a976-425e29da1584" width="200px">
 
 ---
 [![An image of @itskumaryash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itskumaryash)](https://holopin.io/@itskumaryash)
